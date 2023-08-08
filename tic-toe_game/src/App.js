@@ -1,5 +1,5 @@
 import React from "react";
-// import square from './components/Squares';
+
 
 export default function square() {
   return (
