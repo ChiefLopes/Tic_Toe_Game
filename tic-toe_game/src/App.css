@@ -6,6 +6,7 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: black;
 }
 
 h1 {
@@ -69,6 +70,13 @@ body {
   padding: 0;
   text-align: center;
   width: 34px;
+  
+}
+
+.board-row {
+   display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .board-row:after {
